@@ -1,0 +1,11 @@
+{
+  "network": "devin",
+  "networkId": 3,
+  "deployer": "ab283a05092d6e20d26f1d005b79c37fab094350ca0d",
+  "treasury": "ab283a05092d6e20d26f1d005b79c37fab094350ca0d",
+  "implementation": "ab15dd7e5edafb38e054dd2ce0e0048f513608b8e1f7",
+  "proxy": "ab60ee6f3df2cfec7bb481827fa715811ab20b644af1",
+  "implementationDeploymentTx": "0x6149dae4b2547595c7a48280d546359771eb7581aa8610101d6d7d51588e5d54",
+  "proxyDeploymentTx": "0x4192da1838dff20c7e6eff9894c32a94e7a7ed719cc823b4ec779d8079f6fd8f",
+  "block": 13160635
+}
